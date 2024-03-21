@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.conter{
+  margin: 2rem;
+  align-items: center;
+  width: 300px;
+}
